@@ -1,1 +1,1 @@
-# firma--renci-takibi
+# firma-ogrenci-takibi
